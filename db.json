@@ -1,4 +1,10 @@
 {
+  "users": [
+    { "id": 1, "firstName": "Paul", "lastName":"Adegbokan", "email": "adegbokanpaul@gmail.com" },
+    { "id": 2, "firstName": "Oladayo", "lastName":"Azeez", "email": "bibliqisazeez@gmail.com" },
+    { "id": 3, "firstName": "Peter", "lastName":"Ugha", "email": "peter.ugha@gmail.com" },
+    { "id": 4, "firstName": "Oladuni", "lastName":"Olajumoke", "email": "oladunni@gmail.com" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
